@@ -1,2 +1,3 @@
-# Dedign-Pattern
-OOAD
+# Design-Pattern
+OOAD:
+
